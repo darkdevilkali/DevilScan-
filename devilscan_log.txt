@@ -1,9 +1,0 @@
-2025-05-19 22:12:59.074679 - Starting scan on 2025-05-19 22:12:59.074621
-2025-05-19 22:13:04.750994 - Scan interrupted by user
-2025-05-19 22:13:10.897771 - Starting scan on 2025-05-19 22:13:10.897740
-2025-05-19 22:13:16.803219 - Resolved IP for sece.ac.in: 104.21.48.1
-2025-05-19 22:13:40.139375 - WHOIS lookup for sece.ac.in done.
-2025-05-19 22:13:49.019778 - Subdomains found for sece.ac.in: 49
-2025-05-19 22:14:42.991017 - Nmap scan done for 104.21.48.1.
-2025-05-19 22:15:59.247642 - Dirb scan failed for sece.ac.in: Command '['dirb', 'http://sece.ac.in', 'rockyou.txt']' died with <Signals.SIGINT: 2>.
-2025-05-19 22:15:59.247921 - Scan interrupted by user
